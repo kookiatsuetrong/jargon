@@ -13,9 +13,15 @@ Argument คือ ข้อมูลที่ส่งเข้าไปใน 
 
 ### Array
 
-### Asynchronous
+Array คือพื้นที่ในการเก็บข้อมูลหลายตัว
+
+### Asynchronous Function Call
+
+Asynchronous Function Call คือการเรียกใช้ Function โดยไม่ต้องรอผลลัพธ์
 
 ### Autowired
+
+Autowired คือการค้นหา Instance แล้วนำ Address มาใช้งาน
 
 ### Backend
 ### Binary Search
