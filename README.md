@@ -89,7 +89,17 @@ Autowired คือการค้นหา Instance แล้วนำ Address 
 ### MVC
 
 ### OGP
+
 ### OOP
+
+ก่อนจะรู้จัก OOP ได้ ต้องรู้จักภาษาที่ไม่มี OOP ก่อน
+เช่นภาษา C ถูกสร้างขึ้นมาในปี 1972 ภาษา C ไม่มี OOP
+ต่อมามีการสร้างภาษา C++ ในปี 1985
+ซึ่ง C++ เป็นภาษาที่มี OOP มาในตัว
+สิ่งที่ทำให้ C++ มี OOP คือ C++ มี Class 
+
+สรุปได้ว่า การเขียน Code แบบ OOP คือ การเขียน Code โดยใช้ Class
+
 ### Output
 ### Overload
 ### Override
@@ -122,6 +132,17 @@ Autowired คือการค้นหา Instance แล้วนำ Address 
 ### Two Pointers
 
 ### Unit Testing
+
+Unit Testing เป็นการทดสอบ Subprogram
+
+Unit Testing ในภาษา C คือการทดสอบ Function
+
+Unit Testing ในภาษา C++ คือการทดสอบ Function
+
+Unit Testing ในภาษา Python คือการทดสอบ Function
+
+Unit Testing ในภาษา Java คือการทดสอบ Method
+
 ### Unix
 
 ### Vanilla
@@ -129,7 +150,8 @@ Autowired คือการค้นหา Instance แล้วนำ Address 
 
 ### Web Service
 
-Short Answer: Web Service คือ Program ตัวกลางระหว่าง HTTP Client และ Database
+Short Answer: 
+Web Service คือ Program ตัวกลางระหว่าง HTTP Client และ Database Management System
 
 ### WebSocket
 
