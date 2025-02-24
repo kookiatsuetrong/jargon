@@ -1,7 +1,6 @@
 ### AJAX
 
-AJAX เป็น Request จาก Web Browser 
-เพื่ออ่านข้อมูลบางส่วนจาก Server
+AJAX เป็น Request จาก Web Browser เพื่ออ่านข้อมูลเพิ่มเติมจาก Server
 
 ### Algorithm
 
@@ -129,6 +128,9 @@ Autowired คือการค้นหา Instance แล้วนำ Address 
 ### Vector
 
 ### Web Service
+
+Short Answer: Web Service คือ Program ตัวกลางระหว่าง HTTP Client และ Database
+
 ### WebSocket
 
 ### XML
