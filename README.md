@@ -81,6 +81,8 @@ Function เป็น Jargon แปลว่า Subprogram
 ### Interface
 ### IoC
 
+### IP Address
+
 ### JSON
 
 ### Lambda Function
