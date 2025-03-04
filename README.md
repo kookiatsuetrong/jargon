@@ -63,6 +63,12 @@ Autowired คือการค้นหา Instance แล้วนำ Address 
 ### Frontend Toolkit
 ### Function
 
+Function มีที่มาจากคณิตศาสตร์
+
+Function เป็น Jargon แปลว่า Subprogram
+
+
+
 ### Gradle
 ### Greedy
 
@@ -109,6 +115,7 @@ Autowired คือการค้นหา Instance แล้วนำ Address 
 ### Pointer
 ### Polyfill
 ### Polymorphism
+### Port Number
 ### Procedure
 ### Profiling
 ### Protocol
@@ -118,6 +125,23 @@ Autowired คือการค้นหา Instance แล้วนำ Address 
 ### Recursive
 ### Refactor
 ### Repository
+
+Repository แปลว่า คลัง
+
+Repository คือ ที่เก็บข้อมูล
+
+Repository คือ Server ที่ใช้เก็บ Source Code
+
+Repository คือ Server ที่ใช้เก็บ Program
+
+Repository อาจจะมี Server หลายตัวก็ได้
+
+Repository หลายตัว เก็บรวมกันเป็นรายชื่อ เรียกว่า Repository List
+
+Repository บางตัวใน List ใช้ได้ บางตัวใช้ไม่ได้แล้ว 
+
+ดังนั้น ต้อง Update Repository List ก่อน 
+
 ### RMI
 ### RPC
 
