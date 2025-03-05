@@ -70,6 +70,11 @@ Function เป็น Jargon แปลว่า Subprogram
 
 
 ### Gradle
+
+Gradle เป็นชื่อของ Build System ตัวหนึ่งที่นิยมใช้ในภาษา Java
+
+Gradle เป็นชื่อของ Package Manager ตัวหนึ่งที่นิยมใช้ในภาษา Java
+
 ### Greedy
 
 ### Hash Table
@@ -87,12 +92,25 @@ Function เป็น Jargon แปลว่า Subprogram
 
 ### Lambda Function
 ### Linked List
+
+เป็นการเก็บข้อมูลโดยการเชื่อมโยงข้อมูลเข้าด้วยกัน
+
 ### Log
 ### Loop
 
 ### Matrix
 ### Maven
+
+Maven เป็นชื่อของ Build System ตัวหนึ่งที่นิยมใช้ในภาษา Java
+
+Maven เป็นชื่อของ Package Manager ตัวหนึ่งที่นิยมใช้ในภาษา Java
+
+
 ### Method
+
+Method ในภาษา Java คือ Subprogram
+
+
 ### Microservices
 ### MVC
 
